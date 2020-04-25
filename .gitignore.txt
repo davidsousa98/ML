@@ -1,3 +1,0 @@
-# Personalised
-Data/*
-ProjectDescription.pdf

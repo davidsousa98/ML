@@ -1,3 +1,4 @@
-
-.ipynb_checkpoints/Project-checkpoint.ipynb
+Data/*
+ProjectDescription.pdf
+.ipynb_checkpoints/*
 .DS_Store
