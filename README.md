@@ -11,7 +11,7 @@ The project description can be consulted at: https://bit.ly/2XL4wX8
 
 ### Additional information:
 
-**Project Format:** Python File (.py)
+**Project Format:** Python File (.ipynb)
 
 **Project Maximum Size:** None
 
